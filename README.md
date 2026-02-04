@@ -102,9 +102,10 @@ This template was developed through 60+ work sessions of metacognitive experimen
 
 ## Version
 
-**Current:** v1.2.4 (Feb 4, 2026)
+**Current:** v1.2.5 (Feb 4, 2026)
 
 **Changelog:**
+- v1.2.5: Added Cognitive Biases Awareness section - table of 8 common biases with detection/mitigation strategies, BIAS-CHECK protocol
 - v1.2.4: Added install.sh (automated installer) and QUICK-START.md (5-minute guide) + distribution zip package
 - v1.2.3: Added Stakes-Based Analysis Depth section - calibrates metacognition intensity based on context (low/medium/high stakes)
 - v1.2.2: Added Immediate Verification section to INTEGRATION-GUIDE.md (5-step test users can run right now to confirm integration worked) - found via UX audit
